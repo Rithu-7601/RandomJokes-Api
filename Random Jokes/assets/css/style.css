@@ -1,0 +1,7 @@
+body {
+  background-image: url("https://www.wallpapertip.com/wmimgs/13-134720_smiley-background-hd.jpg");
+  height: 100vh;
+}
+.container {
+  max-height: 100%;
+}
